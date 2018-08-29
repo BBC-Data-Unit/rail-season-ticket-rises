@@ -12,3 +12,7 @@ You can [see a repository of materials for our previous story on season tickets 
 ## Visualisation
 
 * Bar chart: Most expensive annual rail season tickets (shown above)
+
+## Related repos
+
+You can [see all fares-related stories under the 'fares' tag](https://github.com/BBC-Data-Unit?utf8=%E2%9C%93&q=fares&type=&language=)
